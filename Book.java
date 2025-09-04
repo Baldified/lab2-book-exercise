@@ -11,6 +11,7 @@ class Book
     // The fields.
     private String author;
     private String title;
+    private int status;
 
     /**
      * Set the author and title fields when this object
@@ -20,6 +21,7 @@ class Book
     {
         author = bookAuthor;
         title = bookTitle;
+        status = 0;
     }
 
     // Add the methods here ...
