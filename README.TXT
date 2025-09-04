@@ -25,3 +25,5 @@ ANSWERS
 18. It belongs to the Student class.
 
 19. The following constructor has 2 parameters and their types are String and double
+
+20. The book class's field types are Strings
